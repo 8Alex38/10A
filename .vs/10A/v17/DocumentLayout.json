@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\se641\\source\\repos\\10A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27BCB21E-D353-43A3-9609-1734393204FF}|10A\\10A.vcxproj|C:\\Users\\se641\\source\\repos\\10A\\10A\\10A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27BCB21E-D353-43A3-9609-1734393204FF}|10A\\10A.vcxproj|solutionrelative:10A\\10A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10A.cpp",
+              "DocumentMoniker": "C:\\Users\\se641\\source\\repos\\10A\\10A\\10A.cpp",
+              "RelativeDocumentMoniker": "10A\\10A.cpp",
+              "ToolTip": "C:\\Users\\se641\\source\\repos\\10A\\10A\\10A.cpp",
+              "RelativeToolTip": "10A\\10A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T13:15:30.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
